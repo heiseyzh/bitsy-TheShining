@@ -444,4 +444,5 @@ NAME door
 ENV 15 25 2 65 63
 BEAT 0 0
 SQR P2
+# map
 blob:https://make.bitsy.org/03bb5f1b-489f-4bde-a093-2a07fa0076c6
